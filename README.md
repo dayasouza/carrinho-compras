@@ -1,5 +1,6 @@
 # Carrinho de Compras
 <img src="/assets/img/carrinho.png">
+
 ## Sobre
 <p> Nosso segundo desafio será criar um Carrinho de compras, algo muito comum no nosso dia a dia, principalmente em relação às compras online.
 
