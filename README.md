@@ -11,7 +11,16 @@ Feito isso, abre uma lista com produtos. Selecionamos Óculos VR e clicamos no b
 Como é muito comum que as pessoas adicionem e depois limpe os itens do carrinho, criaremos esse botão para as informações serem resetadas, ou seja, os itens removidos e o valor zerado. Esse é nosso desafio!</p>
 
 ### Resolução
+<p>Para a resolução desse desafio, foi criado duas funções a <strong> adicionar() </strong> e a <strong>limpar() </strong></p>
+<p>Na função adicionar foi recuperado o nome e o valor do produto que está em um combobox, para isso tive que manipular a string utilizando a função <strong>split()</strong></p>
+<p>Depois foi recuperado outros dados do html, como a quantidade, e com isso feito o calculo inicial do valor unitário do produto multiplicado pela quantidade. E adicionado ao carrinho de compras. </p>
+<p>Após recuperar todos esses dados foi implementado o calculo do valor total do carrinho.</p>
+<p>E pra finalizar, foi criada enfim a função limpar que limpa todos os campos ao ser clicado no botão, para que o carrinho fique vazio.</p>
 
+#### Meus aprendizados...
+
+<p>Efetuando esse projeto aprendi sobre manipulação de string em JavaScript, algo que ainda não tinha aprendido</p>
+<p>Também aprendi como recuperar, manipular e adicionar dados ao HTML.</p>
 
 <h2> Tecnologias <h2>
 <div>
